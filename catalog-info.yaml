@@ -4,7 +4,7 @@ metadata:
   name: python-app
   description: Python app that displays time.
   annotations:
-    github.com/project-slug: cakebispo/backstage
+    github.com/project-slug: cakebispo/python-app
     backstage.io/techdocs-ref: dir:.
 spec:
   type: service
